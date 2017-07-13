@@ -1,0 +1,8 @@
+/WebApp/.vs
+
+/WebApp/Organizer.Web/node_modules
+
+bin
+
+obj
+/WebApp/packages
